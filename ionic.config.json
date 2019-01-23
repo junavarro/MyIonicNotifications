@@ -1,5 +1,7 @@
 {
   "name": "MyNotifications",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "ionic-angular"
 }

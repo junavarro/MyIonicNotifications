@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "314179286674",
+    "firebase_url": "https://ionicrealdb.firebaseio.com",
+    "project_id": "ionicrealdb",
+    "storage_bucket": "ionicrealdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314179286674:android:e2a9e8780af5df8d",
+        "android_client_info": {
+          "package_name": "jnavarro.fcmapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314179286674-jd41m126e76d7e92e8avqbaosgvtmg38.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgJNAGE5JDblOjpInrlZujqSttt-ZNnm4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314179286674:android:b2af57a06920861b",
+        "android_client_info": {
+          "package_name": "jnavarro.notification.test.ionic3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314179286674-jd41m126e76d7e92e8avqbaosgvtmg38.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgJNAGE5JDblOjpInrlZujqSttt-ZNnm4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
